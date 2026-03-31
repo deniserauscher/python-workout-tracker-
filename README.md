@@ -57,6 +57,6 @@ Duration in minutes: 30
 
 Workout added on 2026-03-26
 
-Total time in the last 7 days: 120 minutes
+Total time in the last 7 days: 120 minutes <br>
 Calories burned in the last 7 days: 960 kcal
 
